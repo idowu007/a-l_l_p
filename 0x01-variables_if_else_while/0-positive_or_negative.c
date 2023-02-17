@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - discover the number in the variable is positive, zero or negative
- * Return: 0
+ * main - dicover if the number in the variable is positive, zero or negative
+ * Return:0
  */
 int main(void)
 {

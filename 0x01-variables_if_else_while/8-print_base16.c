@@ -12,8 +12,8 @@ int main(void)
 
 	for (num = 0; num <= 16; num++)
 		putchar((16 % 10) + '0');
-	for (la = 'a'; la <= f; la++)
+	for (la = 'a'; la <= 'f'; la++)
 		putchar (la);
 	putchar('\n');
-s	return (0);
+	return (0);
 }

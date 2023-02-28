@@ -27,7 +27,7 @@ int _atoi(char *s)
 		}
 		else
 		{
-			n * n * 10 - (s[i] - '0');
+			n = n * 10 - (s[i] - '0');
 		}
 	}
 	signo *= -1;
